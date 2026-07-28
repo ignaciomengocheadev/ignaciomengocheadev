@@ -22,7 +22,3 @@
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/phpmyadmin-%236C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white) ![Resend](https://img.shields.io/badge/resend-%23000000.svg?style=for-the-badge&logo=resend&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-# 📂 Mis Repositorios 
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Ignaciomengocheadev&repo=EstudioContableBoschi&theme=github_dark_dimmed)](https://github.com/ignaciomengocheadev/estudio-boschi)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=IgnacioMengochea&repo=to-do-list&theme=github_dark_dimmed)](https://github.com/IgnacioMengochea/to-do-list)
-<br>
