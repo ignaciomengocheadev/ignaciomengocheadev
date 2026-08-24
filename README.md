@@ -22,3 +22,6 @@
 
 ### Estudio Contable Boschi
 [![Visitar sitio](https://img.shields.io/badge/Visitar_sitio-estudiocontableboschi.com.ar-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://estudiocontableboschi.com.ar/)
+
+### Bioplasma Tandil
+[![Visitar sitio](https://img.shields.io/badge/Visitar_sitio-bioplasmatandil.com.ar-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=dark)](https://bioplasmatandil.com.ar/)
