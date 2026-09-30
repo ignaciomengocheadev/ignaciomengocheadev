@@ -5,17 +5,20 @@
 
 💫 About Me: 🚀 Building: Real management platforms like Veltro Studio: admin dashboard with tasks, calendar, clients and leads, proximity-based geolocation, guest mode with usage limits, and a native Android/iOS app built with Capacitor. Plus projects with Laravel, Supabase and whatever it takes to make things actually work. 🌐 Collaborations: Open to teamwork. If it has business logic and a database behind it, even better. 📘 Current Stack: Angular + TypeScript on the frontend, PHP/Laravel on the backend, Postgres with Auth and RLS via Supabase, Cloudflare for storage and Resend for emails. Deployed on Vercel with Analytics and SEO (Search Console + sitemap). No weird shortcuts. 🔍 My approach: Less magic, more control. Direct connections, clean structure and code that makes sense. 🌟 Did you know?: I'd rather solve a problem once and properly than patch it five times fast.
 
+# 📱 Contacto
+<p align="center">
+  <a href="https://www.instagram.com/ignaciomengo/">
+    instagram
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
+
 # 💻 Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,php,laravel,py,mysql,postgres,vscode,github,vercel,cloudflare,supabase&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,php,laravel,py,mysql,postgres,vscode,github,vercel,cloudflare,obsidian,postman,supabase&theme=dark" alt="Tech Stack" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon" />
-  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge" alt="Resend" />
 </p>
 
 # 🖥️ Páginas desarrolladas:
