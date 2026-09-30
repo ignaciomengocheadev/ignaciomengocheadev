@@ -20,8 +20,22 @@
 
 # 🖥️ Páginas desarrolladas:
 
-### Estudio Contable Boschi
-[![Visitar sitio](https://img.shields.io/badge/Visitar_sitio-estudiocontableboschi.com.ar-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://estudiocontableboschi.com.ar/)
-
-### Bioplasma Tandil
-[![Visitar sitio](https://img.shields.io/badge/Visitar_sitio-bioplasmatandil.com.ar-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=dark)](https://bioplasmatandil.com.ar/)
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>Studio Veltro</b><br><br>
+      <a href="https://studioveltro.com.ar/"><img src="https://img.shields.io/badge/Visitar_sitio-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Visitar Studio Veltro"></a><br>
+      <sub>studioveltro.com.ar</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Estudio Contable Boschi</b><br><br>
+      <a href="https://estudiocontableboschi.com.ar/"><img src="https://img.shields.io/badge/Visitar_sitio-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Visitar Estudio Contable Boschi"></a><br>
+      <sub>estudiocontableboschi.com.ar</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Bioplasma Tandil</b><br><br>
+      <a href="https://bioplasmatandil.com.ar/"><img src="https://img.shields.io/badge/Visitar_sitio-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Visitar Bioplasma Tandil"></a><br>
+      <sub>bioplasmatandil.com.ar</sub>
+    </td>
+  </tr>
+</table>
