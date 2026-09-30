@@ -7,8 +7,10 @@
 
 # 📱 Contacto
 <p align="center">
+  <a href="mailto:ignaciomengocheadev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Tech Stack" />
+  </a>
   <a href="https://www.instagram.com/ignaciomengo/">
-    instagram
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Tech Stack" />
   </a>
 </p>
