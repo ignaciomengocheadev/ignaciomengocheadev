@@ -16,26 +16,19 @@
 🌟 Did you know?: I'd rather solve a problem once and properly than patch it five times fast.
 
 # 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white) ![Resend](https://img.shields.io/badge/resend-%23000000.svg?style=for-the-badge&logo=resend&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,supabase,cloudflare,html,css,js,py,angular,vercel" alt="Tech Stack" />
+  </a>
+</p>
 
 # 🖥️ Páginas desarrolladas:
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <b>Studio Veltro</b><br><br>
-      <a href="https://studioveltro.com.ar/"><img src="https://img.shields.io/badge/Visitar_sitio-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Visitar Studio Veltro"></a><br>
-      <sub>studioveltro.com.ar</sub>
-    </td>
-    <td align="center" width="33%">
-      <b>Estudio Contable Boschi</b><br><br>
-      <a href="https://estudiocontableboschi.com.ar/"><img src="https://img.shields.io/badge/Visitar_sitio-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Visitar Estudio Contable Boschi"></a><br>
-      <sub>estudiocontableboschi.com.ar</sub>
-    </td>
-    <td align="center" width="33%">
-      <b>Bioplasma Tandil</b><br><br>
-      <a href="https://bioplasmatandil.com.ar/"><img src="https://img.shields.io/badge/Visitar_sitio-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Visitar Bioplasma Tandil"></a><br>
-      <sub>bioplasmatandil.com.ar</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://estudiocontableboschi.com.ar/"><img src="https://img.shields.io/badge/Estudio_Contable_Boschi-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Estudio Contable Boschi"></a>
+  &nbsp;
+  <a href="https://bioplasmatandil.com.ar/"><img src="https://img.shields.io/badge/Bioplasma_Tandil-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Bioplasma Tandil"></a>
+  &nbsp;
+  <a href="https://studioveltro.com.ar/"><img src="https://img.shields.io/badge/Studio_Veltro-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Studio Veltro"></a>
+</p>
